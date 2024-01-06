@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Express REST Update Site">
+      This is for updation of project.
+   </description>
+   <feature url="features/ExpressRESTFeature_1.0.0.202401061855.jar" id="ExpressRESTFeature" version="1.0.0.202401061855">
+      <category name="Express REST"/>
+   </feature>
+   <category-def name="Express REST" label="Express REST"/>
+</site>

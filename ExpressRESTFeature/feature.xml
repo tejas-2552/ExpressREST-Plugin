@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="ExpressRESTFeature"
+      label="ExpressRESTFeature"
+      version="1.0.0.qualifier">
+
+   <description url="http://www.example.com/description">
+      Plugin Description:
+
+Title: Express REST Eclipse Plugin
+
+Description: Express REST is a powerful Eclipse plugin designed to streamline and enhance your API testing workflows. With intuitive features and a user-friendly interface, this tool empowers developers and testers to efficiently create, manage, and execute API tests directly within the Eclipse IDE. Perform comprehensive testing, analyze results, and accelerate your API development process with Express REST.
+
+Key Features:
+
+    Interactive Test Creation: Easily create API tests using a visual interface.
+    Request and Response Inspection: Inspect API requests and responses for detailed analysis.
+    Scripting Support: Advanced users can leverage scripting for customized test scenarios.
+    Test Suite Management: Organize and execute tests efficiently with test suites.
+    Automation Integration: Seamlessly integrate API testing into your automated build processes.
+
+Get started with Express REST and elevate your API testing experience within Eclipse!
+
+x
+Copyright Information:
+
+Copyright © [2024] [Express REST]
+
+Express REST is protected by copyright law and various international treaties. All rights reserved. Unauthorized reproduction or distribution of this software, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
+
+For inquiries about licensing, usage, and any other questions.
+
+Thank you for choosing Express REST for your API testing needs!
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      Plugin Description:
+
+Title: Express REST Eclipse Plugin
+
+Description: Express REST is a powerful Eclipse plugin designed to streamline and enhance your API testing workflows. With intuitive features and a user-friendly interface, this tool empowers developers and testers to efficiently create, manage, and execute API tests directly within the Eclipse IDE. Perform comprehensive testing, analyze results, and accelerate your API development process with Express REST.
+
+Key Features:
+
+    Interactive Test Creation: Easily create API tests using a visual interface.
+    Request and Response Inspection: Inspect API requests and responses for detailed analysis.
+    Scripting Support: Advanced users can leverage scripting for customized test scenarios.
+    Test Suite Management: Organize and execute tests efficiently with test suites.
+    Automation Integration: Seamlessly integrate API testing into your automated build processes.
+
+Get started with Express REST and elevate your API testing experience within Eclipse!
+
+x
+Copyright Information:
+
+Copyright © [2024] [Express REST]
+
+Express REST is protected by copyright law and various international treaties. All rights reserved. Unauthorized reproduction or distribution of this software, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
+
+For inquiries about licensing, usage, and any other questions.
+
+Thank you for choosing Express REST for your API testing needs!
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      Plugin Description:
+
+Title: Express REST Eclipse Plugin
+
+Description: Express REST is a powerful Eclipse plugin designed to streamline and enhance your API testing workflows. With intuitive features and a user-friendly interface, this tool empowers developers and testers to efficiently create, manage, and execute API tests directly within the Eclipse IDE. Perform comprehensive testing, analyze results, and accelerate your API development process with Express REST.
+
+Key Features:
+
+    Interactive Test Creation: Easily create API tests using a visual interface.
+    Request and Response Inspection: Inspect API requests and responses for detailed analysis.
+    Scripting Support: Advanced users can leverage scripting for customized test scenarios.
+    Test Suite Management: Organize and execute tests efficiently with test suites.
+    Automation Integration: Seamlessly integrate API testing into your automated build processes.
+
+Get started with Express REST and elevate your API testing experience within Eclipse!
+
+x
+Copyright Information:
+
+Copyright © [2024] [Express REST]
+
+Express REST is protected by copyright law and various international treaties. All rights reserved. Unauthorized reproduction or distribution of this software, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
+
+For inquiries about licensing, usage, and any other questions.
+
+Thank you for choosing Express REST for your API testing needs!
+   </license>
+
+   <plugin
+         id="ApiTestingTool"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

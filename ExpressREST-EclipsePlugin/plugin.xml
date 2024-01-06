@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.views">
+      <view
+            category="ApiTestingTool.category1"
+            class="com.testing.ui.TestingView3"
+            icon="icons/icons8-rocket-with-escape-velosity-isolated-on-a-white-background-tal-revivo-tritone-16.png"
+            id="com.testing.ui.TestingView3"
+            name="Express REST">
+      </view>
+      <category
+            id="ApiTestingTool.category1"
+            name="ExpressREST Plugin">
+      </category>
+   </extension>
+</plugin>
